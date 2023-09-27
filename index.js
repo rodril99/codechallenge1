@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
           sala
       };
 
-      fetch("https://jsonplaceholder.typicode.com/users", {
+      fetch("https://crudcrud.com/api/adc54d7744e946cd8ffc1851accabb6d/grupo275", {
           method: "POST",
           mode: "cors",
           headers: {"Content-Type": "application/json"},
