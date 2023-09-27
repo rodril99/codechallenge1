@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
           sala
       };
 
-      fetch(" https://jsonplaceholder.typicode.com/users", {
+      fetch("https://jsonplaceholder.typicode.com/users", {
           method: "POST",
           mode: "cors",
           headers: {"Content-Type": "application/json"},
